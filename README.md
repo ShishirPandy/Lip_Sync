@@ -54,5 +54,5 @@ The Lip Sync Project is built on the foundation of various open-source libraries
 
 ![Made with Love](https://madewithlove.now.sh/in?heart=true&colorB=%23ff0000)
 
-Made with ❤️ by [Your Name](https://github.com/ShishirPandy)
+Made with ❤️ by [Shishir Pandey  ](https://github.com/ShishirPandy)
 
