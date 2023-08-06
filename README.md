@@ -13,6 +13,16 @@ By utilizing the power of DINet, our Lip Sync project opens up exciting opportun
 
 **Lip Sync Project** is a cutting-edge application of deep learning technology, leveraging the power of the DINet (Deep Interactive Neural Network) algorithm to achieve remarkable advancements in lip synchronization. The project focuses on generating lifelike lip movements that synchronize seamlessly with spoken words in video or audio content.
 
+
+
+
+## Original Video Link        https://drive.google.com/file/d/1BLVEYvYqLAjPvqKT3HziotZi6A9SZJXx/view?usp=sharing
+
+## Final Result Video Link   https://drive.google.com/file/d/1syg8vwG7R67A2DseZ96AZCaw2zD-vXgt/view?usp=sharing
+
+
+
+
 ## Features
 
 - Utilizes DINet, a state-of-the-art deep learning architecture for interactive learning between audio and visual modalities.
